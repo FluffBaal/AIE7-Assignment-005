@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+.pyenv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.python-version
+
+# Dependencies
+uv.lock
+poetry.lock
+Pipfile.lock
+
+# LangChain/LangSmith
+.langchain/
+.langsmith/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+*.log
+
+# API Keys and secrets
+*.key
+secrets/
+credentials/
