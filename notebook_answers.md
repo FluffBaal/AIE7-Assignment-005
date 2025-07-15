@@ -87,6 +87,10 @@ Transforms the graph definition into an executable workflow.
 **Cell 78 - Testing the graph**:
 Tests with a multi-part question (LoRA, Tim Dettmers, and Attention) to demonstrate how the helpfulness check drives improvement.
 
+## Advanced build tools
+
+- uses these 3 tools for research: `BingSearchRun`, `ArxivQueryRun`, `GoogleScholarQueryRun`
+
 ## Langsmith trace of the notebook
 
 - https://smith.langchain.com/public/0ea67c39-61a9-494c-a32e-ff0a83b42729/r
